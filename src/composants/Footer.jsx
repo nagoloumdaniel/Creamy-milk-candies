@@ -47,7 +47,7 @@ function Footer() {
           <div className="text-center md:text-left">
             <h5 className="text-xl font-bold mb-6 mt-5">Nous Contacter</h5>
             <ul>
-              <li className="mb-3 text-base">Adressse Email: simoyvan2000@gmail.com</li>
+              <li className="mb-3 text-base">Adressse Email: rostiletchouala123@gmail.com</li>
               <li className="mb-3 text-base">Numero de telephone: +237 675 41 47 62</li>
               <li className="mb-3 text-base">Addresse: Bafoussam, Douala, Cameroon</li>
             </ul>
