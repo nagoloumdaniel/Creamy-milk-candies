@@ -3,24 +3,24 @@ import Contactwhatsapp from "./Contactwhatsapp";
 
 const packages = {
     pack1: {
-        name: "Nanopack : 4 Bonbons",
+        name: "Nanopack : 3 Bonbons",
         image: "./Gallery/nanopack.jpg",
         price: "100 XAF"
     },
     pack2: {
-        name: "Minipack : 20 Bonbons",
+        name: "Minipack : 15 Bonbons",
         image: "./Gallery/minipack.jpg",
         price: "500 XAF"
     },
     pack3: {
-        name: "Mediumpack : 40 Bonbons",
+        name: "Mediumpack : 30 Bonbons",
         image: "./Gallery/mediumpack.jpg",
         price: "1000 XAF"
     },
     pack4: {
         name: "Superpack : 340 Bonbons",
         image: "./Gallery/superpack.jpg",
-        price: "8000 XAF"
+        price: "10.000 XAF"
     }
 };
 
